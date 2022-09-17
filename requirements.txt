@@ -1,3 +1,4 @@
 nltk==3.7
 pandas==1.4.3
 streamlit==1.12.2
+stopwords==3.7
